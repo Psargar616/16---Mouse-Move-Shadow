@@ -8,4 +8,4 @@ Learned to add Shadow on h1 using eventlisteners such as 'mousemove'
 
 ## Project video
 
-[![Watch the video](/screenshots%20and%20recording/Recording.mp4)]
+![Watch the video](/screenshots%20and%20recording/Recording.mp4)
