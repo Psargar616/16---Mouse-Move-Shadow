@@ -7,4 +7,5 @@ Learned to add Shadow on h1 using eventlisteners such as 'mousemove'
 ![ss1](<screenshots and recording/screencapture.png>)
 
 ## Project video
-<video src="screenshots%20and%20recording/Recording.mp4" controls title="Title"></video>
+
+d:\JS-30\JavaScript30-master\16 - Mouse Move Shadow\screenshots and recording\Recording.mp4
